@@ -115,7 +115,7 @@ def create_byhum_df(df):
 
 # Load cleaned data
 
-dir_path = "./"
+dir_path = "https://raw.githubusercontent.com/Mehmed13/bike-sharing-rental/refs/heads/main/dashboard/"
 day_df = pd.read_csv(dir_path + "final_day.csv")
 hour_df = pd.read_csv(dir_path+"final_hour.csv")
 
