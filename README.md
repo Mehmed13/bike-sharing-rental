@@ -1,5 +1,12 @@
 # Bike-Sharing Rental Dashboard ✨
 
+## Author
+
+Name: Muhammad Fadhil Amri <br>
+Email : fadhil.amree@gmail.com <br>
+Domicile: Bandung, Indonesia <br>
+Job : Informatics Undergraduate Student - Institut Teknologi Bandung
+
 ## Setup Environment - Anaconda
 
 ```
